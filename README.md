@@ -57,15 +57,15 @@ iex> Transformer.to_integer_list_or(["a", 2], nil)
 [nil, 2]
 ```
 
-<!-- ## Documentation
+## Documentation
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/transformer>. -->
+be found at <https://hexdocs.pm/transformer>.
 
 ## License
 
-Copyright 2022 Byeonguk Choi
+Copyright 2022 ByeongUk Choi
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
